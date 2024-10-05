@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "267781587938",
+    "firebase_url": "https://crud-master-3013d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-master-3013d",
+    "storage_bucket": "crud-master-3013d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267781587938:android:0ddf448e40c109055a6fbb",
+        "android_client_info": {
+          "package_name": "com.codemave.geofencing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267781587938-7nbp2edls2m17fr333m7dsjclqr09vhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf7ef10FWMrcVjOV8cSvaRvi6XNUVXt9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267781587938-7nbp2edls2m17fr333m7dsjclqr09vhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267781587938:android:87d954dbd396b1125a6fbb",
+        "android_client_info": {
+          "package_name": "com.example.geofencing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267781587938-7nbp2edls2m17fr333m7dsjclqr09vhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf7ef10FWMrcVjOV8cSvaRvi6XNUVXt9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267781587938-7nbp2edls2m17fr333m7dsjclqr09vhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267781587938:android:e338bb41cf1003d25a6fbb",
+        "android_client_info": {
+          "package_name": "com.todo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267781587938-7nbp2edls2m17fr333m7dsjclqr09vhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf7ef10FWMrcVjOV8cSvaRvi6XNUVXt9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267781587938-7nbp2edls2m17fr333m7dsjclqr09vhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
